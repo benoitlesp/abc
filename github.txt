@@ -28,7 +28,7 @@ http://help.github.com/create-a-repo/
 Create a New Repo at GitHub 
 (without README, since cloning will not be used).
 Repository Name: abc
-Description:  test2 pour gitbash
+Description:  test3 pour gitbash
       
 Next steps:
   cd git/dart/educ/abc
